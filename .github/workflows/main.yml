@@ -1,1 +1,17 @@
-
+📱 AVESON Android
+       ↓
+🔐 Login / Register
+       ↓
+🌐 AVESON API Server
+       ↓
+🗄️ PostgreSQL
+       ↓
+👤 Artist Dashboard
+       ↓
+🎵 Release Upload
+       ↓
+🛠️ Admin Review
+       ↓
+✅ Approve / Reject
+       ↓
+📊 Analytics + 💰 Royalties
