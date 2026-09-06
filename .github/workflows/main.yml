@@ -1,17 +1,22 @@
-📱 AVESON Android
-       ↓
-🔐 Login / Register
-       ↓
-🌐 AVESON API Server
-       ↓
-🗄️ PostgreSQL
-       ↓
-👤 Artist Dashboard
-       ↓
-🎵 Release Upload
-       ↓
-🛠️ Admin Review
-       ↓
-✅ Approve / Reject
-       ↓
-📊 Analytics + 💰 Royalties
+AVESON_V9/
+├── android/
+│   ├── settings.gradle
+│   ├── build.gradle
+│   └── app/
+│       ├── build.gradle
+│       ├── AndroidManifest.xml
+│       └── src/main/java/com/aveson/app/
+│           └── MainActivity.java
+│
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   ├── schema.sql
+│   ├── Dockerfile
+│   └── docker-compose.yml
+│
+├── .github/
+│   └── workflows/
+│       └── build-apk.yml
+│
+└── README.md
